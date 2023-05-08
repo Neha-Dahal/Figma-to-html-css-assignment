@@ -84,6 +84,12 @@ p.hero-sub {
   background: #ffffff;
   color: #043caa;
 }
+.btn2:hover,
+.btn3:hover,
+.btn4:hover {
+  background: #ffffff;
+  color: #043caa;
+}
 .search-container {
   width: 488px;
   height: 48px;
@@ -98,7 +104,6 @@ p.hero-sub {
 .search-text {
   color: #7a7a7a;
   padding: 13px 0px 13px 0px;
-  /* margin-right: 80px; */
   font-size: 16px;
   background-color: #ffffff;
   border: none;
@@ -106,6 +111,18 @@ p.hero-sub {
   outline: none;
 }
 
+.login-btn,
+.btn1,
+.btn2,
+.btn3,
+.btn4 {
+  cursor: pointer;
+}
+.login-btn:hover,
+.search-btn:hover,
+.subscribe-btn:hover {
+  background-color: #18ae5b;
+}
 .search-btn {
   width: 128px;
   background: #1bc768;
