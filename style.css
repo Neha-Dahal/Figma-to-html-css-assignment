@@ -103,7 +103,9 @@ p.hero-sub {
   background-color: #ffffff;
   border: none;
   width: 198px;
+  outline: none;
 }
+
 .search-btn {
   width: 127px;
   background: #1bc768;
@@ -202,7 +204,9 @@ h4 {
 }
 button {
   background-color: #f3f7ff;
+  cursor: pointer;
 }
+
 .text {
   margin-right: 139px;
   margin-top: 142px;
